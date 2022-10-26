@@ -1,14 +1,16 @@
 #  <img src="https://user-images.githubusercontent.com/61543012/197379876-c8b98ea9-9119-45e5-8431-448a95449575.png" height="35" width="35" align-items="center" justify-content="center" /> employable
-It is importatnt to query the blockchain for meaningful metrics on upcoming trends in the metaverse. Let us guide you using data analytics and market sentiment.
+Employers can now leverage the power of the blockchain to making the on/offboarding process more efficient, reliable, and safer. This can be done using lighting fast documentation thorugh the ability to use a persons private keys for signatures and multisig wallets. Then we can associate the documents to an address and maintain activity on the paperwork along the documents as well. 
 
-## Know when the next big thing in the metaverse is about to 3RUPT
+The future of this organization is to build enterprise level software to introduce blockchain into all facets of corporate documentation.
 
-😡 Frustrated? Can't seem to buy before the blast-off? 
+## Use the power and efficiency of blockchains to supercharge the workplace.
 
-❓ Use pre-built queries or custom queries, even third-party queries from other dapps.
+🖥️ Access to your important documents can be from any desktop with the ultimate privacy and security (your own private keys).
 
-🔺🔻 Get in before the trend takes off using data analysis and notifications, then ride the wave down.
+🖨️ Go PAPERLESS, reduce your companies paper trail to the max by digitalizing your record system.
 
-🚩 Be the FIRST to get the latest and the greatest.
+🛠️ Troubleshooting issues can be handled within your existing IT department with additional training.
 
-#### [An ECE Dapp](https://github.com/eliascharlese)
+😓 Frustrated? You can find anything you need with prebuilt queries to your companies blockchain.
+
+#### [An ECE Dapp](https://github.com/elicharlese)
